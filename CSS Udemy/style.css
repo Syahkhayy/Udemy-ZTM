@@ -1,0 +1,56 @@
+/**{
+	text-align: right;
+}
+*/
+body{
+	/*background-image: url(background.jpg);
+	background-size: cover;*/
+	/*cursor: none;*/
+}
+
+
+h2,p{
+	color: rgb(6, 28, 32);
+	text-align: center;
+	border: 5px solid #6B9196;
+	cursor: pointer;
+}
+
+p{
+	color: green;
+/*	text-decoration: underline;
+	text-transform: uppercase;
+	line-height: 20p;*/
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
+	font-size: 130%;
+}
+
+img{
+	float: right;
+}
+
+footer{
+	clear: both;
+	text-align: center;
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+}
+
+.webtext:first-child{
+	border: 5px dashed green;
+}
+
+.active{
+	color: darkred;
+}
+
+#div1{
+	background: rgba(0, 0, 255, 0.2);
+}
+
+#div2{
+	background: rgba(255, 0, 0, 0.2);
+}
